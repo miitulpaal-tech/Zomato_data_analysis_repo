@@ -15,7 +15,7 @@ Python, Pandas, NumPy
 ## Files
 - `https://drive.google.com/file/d/1CjmaQcCJlnIPs928Z6CBqKL8braB_fiO/view?usp=sharing` — original dataset
 - `zomato_cleaned.csv` — cleaned dataset
-- `data_cleaning.ipynb` — cleaning notebook
+- `ZOMATO.ipynb` — cleaning notebook
 
 ## Author
 Mitul
