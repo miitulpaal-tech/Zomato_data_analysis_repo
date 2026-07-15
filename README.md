@@ -7,7 +7,7 @@ I cleaned a raw dataset of Zomato restaurants to make it ready for analysis, and
 * **Data Cleaning (Python):** * Removed duplicate rows and dropped columns that weren't useful.
   * Cleaned up missing/null values and fixed text formatting (like text fixes in cuisines and costs).
   * Converted data types (like changing ratings and costs from strings to numbers) using Pandas and NumPy.
-  * Segmented and filtered rows and columns using `.loc` and `.iloc` formatting.
+   
 
 * **Data Visualization (Tableau Dashboard):**
   * **Live Dashboard Link:** [View my Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
