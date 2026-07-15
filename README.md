@@ -1,21 +1,30 @@
-# Zomato Data Cleaning
+# Zomato Data Cleaning & Dashboard Project
 
-Cleaned a raw Zomato restaurant dataset — handled missing values, duplicates, inconsistent formatting, and incorrect data types to make it analysis-ready.
+I cleaned a raw dataset of Zomato restaurants to make it ready for analysis, and then built an interactive Tableau dashboard to help find the best spots and prices for opening a new restaurant.
 
-## What was done
-- Removed duplicate records
-- Handled missing/null values
-- Standardized text formatting (cuisines, cost, etc.)
-- Fixed data types (cost, ratings → numeric)
-- Removed irrelevant columns
+## What Was Done
 
-## Tools
-Python, Pandas, NumPy
+* **Data Cleaning (Python):** * Removed duplicate rows and dropped columns that weren't useful.
+  * Cleaned up missing/null values and fixed text formatting (like text fixes in cuisines and costs).
+  * Converted data types (like changing ratings and costs from strings to numbers) using Pandas and NumPy.
+  * Segmented and filtered rows and columns using `.loc` and `.iloc` formatting.
 
-## Files
-- `https://drive.google.com/file/d/1CjmaQcCJlnIPs928Z6CBqKL8braB_fiO/view?usp=sharing` — original dataset
-- `https://drive.google.com/file/d/1cSE9cSDyJU65zN-K1QOXrMVajoJ1ws3D/view?usp=sharing` — cleaned dataset
-- `ZOMATO.ipynb` — cleaning notebook
+* **Data Visualization (Tableau Dashboard):**
+  * **Live Dashboard Link:** [View my Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+  * Created an **Executive KPI Header** tracking the total number of restaurants analyzed, average ratings, and average costs.
+  * Built a **Geography of Opportunity Map** using location bar charts and bivariate ratings filters to spot neighborhoods with low competition but high ratings.
+  * Designed a **Price vs. Quality Scatter Plot** (scaled by total votes) to identify the pricing "sweet spot" for high consumer engagement.
+  * Added a **Cuisine Density Treemap** to easily see the most popular and highly-rated food types at a glance.
+  * Enabled interactive **Cross-Chart Actions** so clicking on any location automatically updates all other charts for deep exploratory analysis.
+
+## Tools Used
+* **Data Prep:** Python (Pandas, NumPy)
+* **Visualization:** Tableau Public
+
+## Project Files
+* [Original Dataset Link](https://drive.google.com/file/d/1CjmaQcCJlnIPs928Z6CBqKL8braB_fiO/view?usp=sharing) — The raw, uncleaned data
+* [Cleaned Dataset Link](https://drive.google.com/file/d/1cSE9cSDyJU65zN-K1QOXrMVajoJ1ws3D/view?usp=sharing) — The final processed data
+* `ZOMATO.ipynb` — The Jupyter notebook showing all my cleaning steps code
 
 ## Author
-Mitul
+**Mitul** — Fresher Data Analyst
