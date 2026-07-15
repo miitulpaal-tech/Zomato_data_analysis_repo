@@ -27,4 +27,4 @@ I cleaned a raw dataset of Zomato restaurants to make it ready for analysis, and
 * `ZOMATO.ipynb` — The Jupyter notebook showing all my cleaning steps code
 
 ## Author
-**Mitul** — Fresher Data Analyst
+**Mitul** 
