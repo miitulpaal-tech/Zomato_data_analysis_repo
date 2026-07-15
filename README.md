@@ -10,7 +10,7 @@ I cleaned a raw dataset of Zomato restaurants to make it ready for analysis, and
    
 
 * **Data Visualization (Tableau Dashboard):**
-  * **Live Dashboard Link:** [View my Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+  * **Live Dashboard Link:** [View my Tableau Dashboard](https://drive.google.com/file/d/1TqQXH7Ikpv6hK8YWoN3_vMEAL1HscvrC/view?usp=sharing)
   * Created an **Executive KPI Header** tracking the total number of restaurants analyzed, average ratings, and average costs.
   * Built a **Geography of Opportunity Map** using location bar charts and bivariate ratings filters to spot neighborhoods with low competition but high ratings.
   * Designed a **Price vs. Quality Scatter Plot** (scaled by total votes) to identify the pricing "sweet spot" for high consumer engagement.
@@ -23,7 +23,7 @@ I cleaned a raw dataset of Zomato restaurants to make it ready for analysis, and
 
 ## Project Files
 * [Original Dataset Link](https://drive.google.com/file/d/1CjmaQcCJlnIPs928Z6CBqKL8braB_fiO/view?usp=sharing) — The raw, uncleaned data
-* [Cleaned Dataset Link](https://drive.google.com/file/d/1cSE9cSDyJU65zN-K1QOXrMVajoJ1ws3D/view?usp=sharing) — The final processed data
+* [Cleaned Dataset Link](https://drive.google.com/file/d/1GZZNUb2nqOkvC5d94r8T7PpcJ50UjfgQ/view?usp=sharing) — The final processed data
 * `ZOMATO.ipynb` — The Jupyter notebook showing all my cleaning steps code
 
 ## Author
